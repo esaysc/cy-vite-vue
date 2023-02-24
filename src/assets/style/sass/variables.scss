@@ -1,0 +1,9 @@
+@import './theme.scss';
+// less 变量
+// 默认样式，使用默认颜色值
+
+$primary-color: var (--primary-color);
+
+// 导航栏高度
+$menuH: 64px;
+$test: red;
